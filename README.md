@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello! 😄
+🎓 I'm a Computer Science and Engineering student at Lund University (LTH), graduating in June 2027.
+
+🌱 Currently
+- Completing my degree at LTH
+- Looking for a bachelor's thesis opportunity for spring 2027
+- Learning and improving my software development skills
 
 <!--
 **eve-ch/eve-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
